@@ -1,0 +1,5 @@
+x=float(input("what is x ? "))
+y=float(input("whats is y ? "))
+z=round(x+y)
+print(f"{z:.2f}")
+print(z)
